@@ -6,4 +6,4 @@ npm i
 
 nodemon node index.js
 
-add homepage of stock page from bse in url
+add homepage of stock page from bse in url, change to todays date
